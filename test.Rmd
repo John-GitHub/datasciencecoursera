@@ -1,0 +1,11 @@
+---
+title: "test"
+author: "John Owens"
+date: "August 3, 2015"
+output: pdf_document
+---
+
+```{r}
+setwd("~/GitHub/datasciencecoursera")
+```
+
