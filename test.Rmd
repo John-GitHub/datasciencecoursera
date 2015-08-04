@@ -4,6 +4,11 @@ author: "John Owens"
 date: "August 3, 2015"
 output: pdf_document
 ---
+# Data Science Specialization 
+
+* Uses R 
+* Nine courses 
+* Goes from raw data to data products
 
 ```{r}
 setwd("~/GitHub/datasciencecoursera")
